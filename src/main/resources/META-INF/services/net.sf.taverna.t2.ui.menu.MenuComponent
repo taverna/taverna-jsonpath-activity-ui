@@ -1,0 +1,3 @@
+net.sf.taverna.t2.activities.jsonpath.ui.contextualview.ConfigureJsonPathActivityMenuAction
+net.sf.taverna.t2.activities.jsonpath.ui.menu.AddJsonPathTemplateAction
+net.sf.taverna.t2.activities.jsonpath.ui.menu.AddJsonPathTemplateMenuAction
